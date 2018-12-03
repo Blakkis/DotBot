@@ -11,4 +11,4 @@
 [![US Flag](https://img.youtube.com/vi/kOT8PlQIDq0/0.jpg)](https://www.youtube.com/watch?v=kOT8PlQIDq0)
 
 # B&W City
-[![B&W City](https://img.youtube.com/vi/XMKfWI1SCA/0.jpg)](https://www.youtube.com/watch?v=XMKfWI1SCA)
+[![B&W City](https://img.youtube.com/vi/-XMKfWI1SCA/0.jpg)](https://www.youtube.com/watch?v=-XMKfWI1SCA)
