@@ -1,4 +1,4 @@
-# Home of the DotBot which can paint images from source to MsPaint
+# DotBot script
 
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=V34DlQ4FXSg/0.jpg)](https://www.youtube.com/watch?v=V34DlQ4FXSg)
+[![WWF Logo](https://www.youtube.com/watch?v=V34DlQ4FXSg)](https://www.youtube.com/watch?v=V34DlQ4FXSg)
