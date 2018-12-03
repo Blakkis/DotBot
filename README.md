@@ -1,4 +1,6 @@
 # DotBot script
+# Made for 1920 x 1080 resolution
+# Start location for the mouse pointer should be at topleft of the ms.paint, paint area
 
 
 # WWF Logo
