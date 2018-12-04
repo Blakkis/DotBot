@@ -2,7 +2,7 @@
 Made for 1920 x 1080 resolution
 Start location for the mouse pointer should be at topleft of the ms.paint, paint area
 
-# Videoita
+# Videos
 
 # Suomi Leijona Logo
 [![Leijona Logo](https://img.youtube.com/vi/4xoD6U100zQ/0.jpg)](https://www.youtube.com/watch?v=4xoD6U100zQ)
